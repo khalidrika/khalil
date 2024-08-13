@@ -1,4 +1,4 @@
-echo "# zaki" >> README.md
+echo "# zaki" >> README.mdf
 git init
 git add README.md
 git commit -m "first commit"
